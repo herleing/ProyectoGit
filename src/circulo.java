@@ -1,4 +1,5 @@
 
 public class circulo {
-	int modificacion = 0;
+	private Double radio;
+
 }
