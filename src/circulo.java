@@ -1,4 +1,4 @@
 
 public class circulo {
-	asd
+	int modificacion = 0;
 }
