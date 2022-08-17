@@ -1,6 +1,6 @@
 
 public class Rectangulo {
-	public void mostrarRadio() {
-
+	public void mostrarRadio(Integer i) {
+		System.out.println(" ");
 	}
 }
